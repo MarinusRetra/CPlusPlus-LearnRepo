@@ -1,0 +1,10 @@
+^C:\USERS\SDMSI\DESKTOP\MARINUS RETRA\C++\C-LEARNREPO\ENGINE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/SDMSI/Desktop/Marinus Retra/C++/C-LearnRepo/Engine" "-BC:/Users/SDMSI/Desktop/Marinus Retra/C++/C-LearnRepo/Engine/build" --check-stamp-file "C:/Users/SDMSI/Desktop/Marinus Retra/C++/C-LearnRepo/Engine/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

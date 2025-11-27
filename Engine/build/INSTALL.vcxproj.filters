@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\SDMSI\Desktop\Marinus Retra\C++\C-LearnRepo\Engine\build\CMakeFiles\8c4bae87adad5145cdb1e08c2b44466c\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FE8C5058-15F1-3157-8489-7856C442CB56}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

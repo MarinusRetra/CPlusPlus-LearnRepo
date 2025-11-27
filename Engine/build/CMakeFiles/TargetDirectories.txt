@@ -1,0 +1,11 @@
+C:/Users/SDMSI/Desktop/Marinus Retra/C++/C-LearnRepo/Engine/build/CMakeFiles/Engine.dir
+C:/Users/SDMSI/Desktop/Marinus Retra/C++/C-LearnRepo/Engine/build/CMakeFiles/INSTALL.dir
+C:/Users/SDMSI/Desktop/Marinus Retra/C++/C-LearnRepo/Engine/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/SDMSI/Desktop/Marinus Retra/C++/C-LearnRepo/Engine/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/SDMSI/Desktop/Marinus Retra/C++/C-LearnRepo/Engine/build/external/glfw/CMakeFiles/uninstall.dir
+C:/Users/SDMSI/Desktop/Marinus Retra/C++/C-LearnRepo/Engine/build/external/glfw/CMakeFiles/INSTALL.dir
+C:/Users/SDMSI/Desktop/Marinus Retra/C++/C-LearnRepo/Engine/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/SDMSI/Desktop/Marinus Retra/C++/C-LearnRepo/Engine/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/SDMSI/Desktop/Marinus Retra/C++/C-LearnRepo/Engine/build/external/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/SDMSI/Desktop/Marinus Retra/C++/C-LearnRepo/Engine/build/external/glfw/src/CMakeFiles/INSTALL.dir
+C:/Users/SDMSI/Desktop/Marinus Retra/C++/C-LearnRepo/Engine/build/external/glfw/docs/CMakeFiles/INSTALL.dir
