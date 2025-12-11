@@ -1,12 +1,6 @@
 # Prerequisites
 *.d
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
-
 # Precompiled Headers
 *.gch
 *.pch
@@ -22,10 +16,6 @@
 *.dylib
 *.dll
 
-# Fortran module files
-*.mod
-*.smod
-
 # Compiled Static libraries
 *.lai
 *.la
@@ -39,13 +29,66 @@
 
 # debug information files
 *.dwo
-Engine/build/.vs/Engine/CopilotIndices/17.14.1231.31060/CodeChunks.db
-Engine/build/.vs/Engine/CopilotIndices/17.14.1231.31060/SemanticSymbols.db
-Engine/build/.vs/Engine/v17/Solution.VC.db
-Engine/build/.vs/Engine/v17/ipch/AutoPCH/526a247571150a9e/MAIN.ipch
-Engine/build/.vs/Engine/v17/DocumentLayout.json
-Engine/build/.vs/Engine/v17/DocumentLayout.backup.json
-Engine/build/.vs/Engine/v17/Browse.VC.db
-Engine/build/.vs/Engine/v17/.suo
-Engine/build/.vs/Engine/FileContentIndex/a277f667-f392-4b51-83a0-7daaca82aa60.vsidx
-Engine/build/.vs/Engine/v17/Solution.VC.db
+
+# ---- Visual Studio build output ----
+[Bb]in/
+[Dd]ebug*/
+[Rr]elease*/
+x64/
+x86/
+ARM*/
+*.obj
+*.pdb
+*.idb
+*.pch
+*.ipch
+*.log
+*.tlog
+*.ilk
+*.tmp
+*.user
+*.suo
+
+# ---- Visual Studio project user files ----
+*.vcxproj.user
+*.aps
+
+# ---- CMake build artifacts ----
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+out/
+
+# VS CMake generated helper projects
+ALL_BUILD.vcxproj
+ALL_BUILD.vcxproj.filters
+ZERO_CHECK.vcxproj
+ZERO_CHECK.vcxproj.filters
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+.vs/
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Ww][Ii][Nn]32/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+Engine/external/glfw/cmake_uninstall.cmake
+Engine/external/glfw/src/glfw3ConfigVersion.cmake
+Engine/external/glfw/src/glfw3Config.cmake
+Engine/external/glfw/src/glfw3.pc
